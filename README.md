@@ -7,3 +7,8 @@ Go through the following questions to know more about GitHub
 3. Why Git is Fast/Speed?
 4. What are all the advantages in GIT?
 5. What is SSH and why it is needed?
+
+Types of repositories in GIT
+1. Working Area
+2. Local Repository
+3. Remote Repository
